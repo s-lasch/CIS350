@@ -1,0 +1,501 @@
+city_id,city_name,state_id
+999,Monroe Twp.,5927
+1001,Mendota,5090
+1004,Milton,5314
+1005,Houghton Lake,5162
+1006,Boca Raton,5314
+1007,River Rouge,5162
+1008,Southington,5131
+1010,Ada,5069
+1012,Glen Ellyn,5417
+1014,Selden,5954
+1015,Baltimore,5834
+1021,Elkins,5403
+1022,Gurnee,5417
+1024,Lodi,5090
+1026,Simi Valley,5090
+1027,Altoona,5885
+1031,San Mateo,5090
+1032,Lake Gregory,5090
+1033,Frankenmuth,5162
+1034,Salinas,5090
+1036,Fort Meade,5834
+1041,Coloma,5162
+1042,Newport Beach,5090
+1044,Norwalk,5090
+1045,Wyoming,5162
+1047,Stockton,5090
+1048,Portage,5869
+1049,Destin,5314
+1054,Branson,5309
+1055,Orangeburg,5954
+1056,Plant City,5314
+1057,Hollister,5090
+1058,Saginaw,5162
+1062,Westhampton,5954
+1068,Vero Beach,5314
+1069,Bristol,5131
+1071,Tampa,5314
+1073,Carver,5061
+1076,Anaheim,5090
+1078,Geddes,5954
+1082,Lewisburg,5403
+1083,Vernon,5927
+1084,Santa Claus,5946
+1086,St. Pete,5314
+1089,City of Industry,5090
+1090,Pasadena,5090
+1091,Puyallup,5076
+1093,Caro,5162
+1094,Durango,5201
+1095,South Orange,5927
+1099,Laguna Hills,5090
+1102,Pleasanton,5090
+1103,Carson,5090
+1105,Ottumwa,5885
+1108,Louisville,5293
+1110,Farmingdale,5954
+1111,Twin Lakes,5869
+1113,Cape May,5927
+1114,Waterloo,5869
+1115,Hamilton,5927
+1118,Terre Haute,5946
+1120,East Dundee,5417
+1121,Jacksonville,5927
+1124,Port St. Lucie,5314
+1126,EauClaire,5869
+1127,Davenport,5885
+1128,Ames,5885
+1129,Evansdale,5885
+1131,Houston,5115
+1132,Lewiston,5954
+1133,Hammonton,5927
+1135,Black River Falls,5869
+1136,Mt. Laurel,5927
+1137,Bunnell,5314
+1138,Arroyo Grande,5090
+1142,Pompano,5314
+1143,San Dimas,5090
+1144,Alma,5162
+1147,Middle Island,5954
+1149,Worcester,5061
+1152,Gantt,5927
+1154,Austin,5115
+1155,Portage,5162
+1159,Sebring,5314
+1161,Wewoka,5069
+1166,Woodland Hills,5090
+1167,Pontiac,5162
+1168,Redding,5090
+1169,Johnston,5585
+1171,Fulton,5954
+1175,Dania Beach,5314
+1177,Freeville,5954
+1180,Ironwood,5162
+1181,Bronx,5927
+1182,Monticello,5954
+1184,Lakewood,5090
+1187,Bethlehem,5131
+1188,Ionia,5162
+1189,Prince Frederick,5834
+1190,Mahopac,5954
+1191,Paramus,5927
+1192,Stillwater,5069
+1194,Hamburg,5954
+1195,Hermosa Beach,5090
+1196,West Orange,5927
+1197,Royal Palm,5314
+1199,Lodi,5927
+1200,Beach Haven,5927
+1202,Lansing,5162
+1204,Mechanicsburg,5025
+1205,Thousand Oaks,5090
+1206,Mason,5693
+1208,Carlsbad,5090
+1216,Turnersville,5927
+1218,Cliffwood,5927
+1219,Winter Haven,5314
+1221,Prescott Valley,5409
+1224,Mount Clemens,5162
+1226,Coral Springs,5314
+1229,Cape Canaveral,5314
+1234,Concord,5090
+1239,Brevard,5314
+1240,Weston,5314
+1241,Spring Fling,5314
+1242,Danbury,5927
+1245,Buena Park,5090
+1246,Ocean View,5927
+1248,Hopkinton,5585
+1249,La Habra,5090
+1251,Manorville,5954
+1253,Ocala,5314
+1255,Santa Barbara,5090
+1256,Raleigh,5528
+1257,West Hazleton,5927
+1258,Palatine,5417
+1260,Lake Worth,5314
+1261,Charlotte,5528
+1265,Brandon,5314
+1267,Traverse City,5162
+1269,Anthony,5115
+1270,Fountain Valley,5090
+1271,Sandusky,5693
+1272,San Bernadino,5090
+1273,Hancock,5061
+1274,Mansfield,5061
+1275,Oak Ridge,5927
+1277,Lubbock,5115
+1278,Rockville,5946
+1284,Labelle,5314
+1285,Mesquite,5115
+1286,Irondequoit,5954
+1288,York,5927
+1293,Ocean City,5834
+1301,Sturgis,5162
+1303,Point Pleasant Beach,5927
+1304,Clearwater,5314
+1305,San Diego,5090
+1306,Brooklyn,5162
+1307,Cudahy,5090
+1311,Cape Coral,5314
+1313,Vallejo,5090
+1314,Livermore,5090
+1316,Ft. Myers,5314
+1318,Pensacola,5314
+1319,Hillsdale,5162
+1320,San Luis Obispo,5090
+1325,Lapeer,5162
+1326,Roseville,5090
+1328,Pt. Charlotte,5314
+1329,White Lake,5162
+1334,Woodland,5090
+1336,Freehold,5927
+1337,Davie,5314
+1338,Roslyn Heights,5954
+1340,Upper Saddle River,5927
+1342,Battle Creek,5162
+1344,Orlando,5314
+1345,Hartford,5869
+1346,Vineland,5927
+1347,Stuttgart,5270
+1348,Madison,5869
+1350,Shelby Township,5162
+1352,Queensbury,5954
+1353,Everglades City,5314
+1354,Ft. Walton Bch.,5314
+1355,Jackson,5927
+1359,Thorofare,5927
+1360,Santa Cruz,5090
+1361,Marshall,5869
+1363,Egg Harbor Township,5927
+1364,Belleville,5927
+1367,Springfield,5417
+1369,Monterey,5090
+1374,Wisconsin Dells,5869
+1376,Keansburg,5927
+1378,West Springfield,5061
+1379,Ringwood,5927
+1384,San Gabriel,5090
+1388,Grand Island,5954
+1389,Lincoln,5585
+1391,El Paso,5115
+1393,Kansas City,5309
+1394,Hollywood,5314
+1396,West Nyack,5954
+1397,Port Richey,5314
+1398,Plantation,5927
+1399,Scottsburg,5946
+1400,Green Bay,5869
+1401,San Francisco,5090
+1402,Byram Twp.,5927
+1403,Wisconsin Dells,5693
+1407,Homosassa,5314
+1408,Indianapolis,5946
+1412,Miami,5314
+1413,West Allis,5869
+1416,Warrensburg,5954
+1417,Smithville,5927
+1419,Indio,5090
+1420,North Wildwood,5927
+1422,Fernandina Beach,5314
+1425,Rochester,5954
+1426,Pitanea,5162
+1428,Dallas,5115
+1432,Hot Springs,5270
+1433,Lake Delton,5869
+1434,Warren,5162
+1435,Newberry,5162
+1436,Marlton,5927
+1437,Paterson,5927
+1438,Lakeland,5314
+1439,Panama City Beach,5314
+1440,Pt. Pleasant,5927
+1441,Springville,5954
+1443,Cherry Hill,5927
+1445,Auburndale,5314
+1446,Oakland,5090
+1447,Hillsboro,5693
+1450,Spring,5115
+1452,Antelope Valley,5090
+1454,Houston South,5115
+1457,Hialeah,5314
+1458,Blissfield,5162
+1462,Jacksonville,5314
+1463,Dania,5314
+1464,Las Vegas,5030
+1465,Cherryville,5528
+1468,Aurora,5693
+1469,Plattsburgh,5954
+1471,Topsfield,5061
+1476,Pigeon Forge,5039
+1478,Tulsa,5069
+1479,Cape May Court House,5927
+1483,Jensen Beach,5927
+1484,Nanuet,5954
+1485,N. Wildwood,5927
+1486,Lebanon,5927
+1487,Florida City,5314
+1488,Toms River,5927
+1491,Windsor,5090
+1493,Palmdale,5090
+1495,Shullsburg,5869
+1496,Dade City,5314
+1497,Clearlake,5090
+1500,New Buffalo,5162
+1502,Morgan Hill,5090
+1503,Long Beach Island,5927
+1505,Lake George,5954
+1506,Sewell,5927
+1507,Jefferson City,5309
+1508,Mason City,5885
+1512,Deerfield Beach,5314
+1513,Wildwood,5927
+1516,Rutherford,5927
+1517,Arcadia,5090
+1518,Rio Vista,5090
+1519,Hackettstown,5927
+1521,Melbourne,5314
+1523,Waco,5115
+1525,Lake City,5314
+1527,Hale,5162
+1528,Tonawanda,5954
+1529,Montgomery,5309
+1530,Escondido,5090
+1531,Broward,5314
+1532,Hasbrouck Heights,5927
+1533,Manteca,5090
+1535,Hacienda Heights,5090
+1536,Milwaukee,5869
+1538,Englishtown,5927
+1539,Garfield,5927
+1540,Silver Springs,5314
+1542,Santa Monica,5090
+1544,San Joaquin,5090
+1545,Hopkinsville,5293
+1546,Matewan,5403
+1549,Columbus,5693
+1551,Riverside,5090
+1553,Unknown,5314
+1554,Raytown,5927
+1557,Pomona,5927
+1558,Greensburg,5946
+1559,Murreta,5090
+1562,Fords,5927
+1563,Hurricane,5403
+1564,Clementon,5927
+1566,Stilwell,5069
+1567,Turlock,5090
+1573,Barstow,5090
+1574,Angels Camp,5090
+1579,Hebron,5834
+1580,Union City,5772
+1581,Panama City,5314
+1583,South Toms River,5927
+1586,Ripley,5403
+1591,Mason,5162
+1592,Amarillo,5115
+1594,Red Bluff,5090
+1597,Hollard,5162
+1601,Frederick,5834
+1602,Wilmington,5061
+1603,Phillips,5869
+1605,Andover,5061
+1606,Spencerport,5954
+1609,Springhill,5314
+1613,Redmond,5076
+1614,N. Houston,5115
+1617,Lyndhurst,5927
+1618,Scotch Plains,5927
+1619,Fairfield,5927
+1621,Apalachecola,5314
+1622,Carrollton,5115
+1624,Del Mar,5090
+1625,Hastings,5162
+1629,Oklahoma City,5069
+1632,Tukwila,5076
+1633,South Amboy,5927
+1635,Naples,5314
+1638,Seaside Park,5927
+1639,Okeechobee,5314
+1642,Dryden,5162
+1643,Oldsmar,5314
+1648,Long Beach,5090
+1649,Bell Gardens,5090
+1651,Syracruse,5954
+1653,El Monte,5090
+1657,Bayville,5927
+1659,Little Rock,5270
+1660,Sacramento,5090
+1661,Wenatchee,5076
+1662,Palm Springs,5090
+1664,Midland,5162
+1668,Bradenton,5314
+1671,Des Moines,5885
+1672,Ft. Laud.,5314
+1678,Eustis,5314
+1679,Doswell,5630
+1681,Denver,5201
+1684,Ventura,5090
+1685,Niagra Falls,5954
+1687,Mission,5115
+1691,Wilton Manor,5314
+1692,Lake View Terrace,5090
+1693,Ligonier,5025
+1694,San Antonio,5115
+1699,Gilroy,5090
+1700,Waterford,5162
+1702,Kalamazoo,5162
+1704,Eagle Rock,5090
+1706,Primm,5030
+1709,Glastonbury,5131
+1711,Hackensack,5927
+1712,Ontario,5090
+1714,Hope,5270
+1717,Aurora,5201
+1718,Yonkers,5927
+1723,Vista,5090
+1726,Middlebury,5131
+1727,Wheatfield,5954
+1728,Lehigh Acres,5314
+1731,Hershey,5025
+1733,Atlantic City,5927
+1734,Pt. Pleasant Beach,5927
+1736,Los Angeles,5090
+1740,Tahlequah,5069
+1741,Greenfield,5309
+1743,Arlington,5115
+1744,Tarpon Springs,5314
+1745,Mangum,5069
+1749,South Padre Island,5115
+1750,N Palm Beach,5314
+1751,Brockton,5061
+1755,Lake Grove,5954
+1756,St. Clair,5162
+1759,Sanford,5314
+1767,Williamstown,5927
+1768,Lakewood,5869
+1769,Bayonne,5927
+1771,New Orleans,5979
+1772,Kissimmee,5314
+1774,Hope,5927
+1780,Paintsville,5293
+1781,Shrewsbury,5061
+1782,Sunrise,5314
+1785,Largo,5834
+1786,Fenton,5162
+1792,Cypress Gardens,5314
+1793,Latham,5693
+1794,Pennsauken,5927
+1795,Pleasant Beach,5927
+1796,Lake Buena Vista,5314
+1797,Sea Isle City,5927
+1799,Clovis,5090
+1801,Gibsonton,5927
+1803,Bell,5403
+1804,Salem,5528
+1805,Clio,5162
+1809,Smithfield,5585
+1811,West Palm Beach,5314
+1813,Upland,5090
+1815,Agawam,5061
+1817,St. Augustine,5314
+1819,Tracy,5090
+1820,Alhambra,5090
+1825,Tallahassee,5314
+1826,Douglassville,5927
+1828,Irvine,5090
+1830,Middleburg,5314
+1835,Universal City,5090
+1837,Seattle,5076
+1838,Wallkill,5954
+1840,El Cajon,5090
+1845,Bethel,5131
+1847,Howell,5162
+1853,W. Senaca,5954
+1854,Sterling Heights,5162
+1855,Buffalo,5954
+1856,Ocean City,5927
+1858,Staffordville,5927
+1860,East Hanover,5927
+1861,New Port Richey,5314
+1864,Darien Center,5954
+1865,Fairmont,5403
+1867,Ft. Lauderdale,5314
+1868,Costa Mesa,5090
+1870,Fairfield,5417
+1875,Cedar Hills,5115
+1879,Madison,5403
+1882,Greenville,5162
+1883,Union City,5693
+1886,Taylor,5162
+1891,Palm beach,5314
+1892,Mary Ester,5314
+1895,Donegal,5025
+1896,Greenwood,5954
+1897,Royal Oak,5162
+1898,Medford,5954
+1901,Mocksville,5528
+1904,University Center,5162
+1905,Santa Clara,5090
+1909,West Haven,5131
+1910,Daytona Beach,5314
+1911,Muskegon,5162
+1918,Danbury,5131
+1922,Spokane,5076
+1923,Reedsville,5403
+1926,Newaygo,5162
+1927,Oshkosh,5869
+1929,Seaside Heights,5927
+1930,Wantage,5927
+1932,San Jose,5090
+1934,Caledonia,5954
+1935,Rye,5954
+1939,East Rutherford,5927
+1941,Washington,5885
+1943,Trumbull,5131
+1944,Kings Island,5693
+1945,Cheboygan,5162
+1951,Chicago,5417
+1953,Canton,5162
+1954,Modesto,5090
+1956,Fresno,5090
+1958,New Braunfels,5115
+1959,Tannersville,5025
+1960,Redlands,5090
+1962,Pomona,5090
+1963,Pinellas Park,5314
+1968,Wayne,5927
+1976,Detroit,5162
+1977,Glen Mills,5927
+1980,Dryden,5954
+1981,Perris,5090
+1986,Ft. Pierce,5314
+1990,Chula Vista,5090
+1991,Piscataway,5927
+1992,Wesland,5162
+1993,Tiverton,5585
+1994,Baraboo,5869
+1995,Danville,5946
+1997,Albany,5954
+1998,Palatka,5314
